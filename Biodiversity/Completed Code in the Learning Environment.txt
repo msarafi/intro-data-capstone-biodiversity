@@ -3,9 +3,8 @@
 
 import codecademylib
 import pandas as pd
-from matplotlib import pyplot as plt
-
-
+from matplotlib import pyplot as plt 
+from scipy.stats import chi2_contingency
 
 
 #Step 1/15
